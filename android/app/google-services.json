@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196083929389",
+    "project_id": "srm-faculty-attendance",
+    "storage_bucket": "srm-faculty-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196083929389:android:1e92276acd4d51201d43a4",
+        "android_client_info": {
+          "package_name": "com.srm_faculty_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196083929389-h2ut78i28vmljn6u2gkrijntdjmcif7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrvoEqL3fcxAtKmwZZVJPsOEMnU-9dkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196083929389-h2ut78i28vmljn6u2gkrijntdjmcif7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
